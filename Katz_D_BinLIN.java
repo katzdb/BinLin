@@ -74,6 +74,6 @@ sum=sum+val;
  
  System.out.println(avgbin+" Average of iterations for Binary search");
  System.out.println(avglin+" Average of iterations for linear search");
-  
+  //trying to see how to commit
 }
 }
